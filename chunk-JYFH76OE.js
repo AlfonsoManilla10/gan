@@ -1,0 +1,1 @@
+import{ga as r}from"./chunk-COZJJN5U.js";var s=(()=>{class t{transform(e){return Math.abs(e)}static{this.\u0275fac=function(i){return new(i||t)}}static{this.\u0275pipe=r({name:"absolute",type:t,pure:!0,standalone:!0})}}return t})();export{s as a};

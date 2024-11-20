@@ -1,0 +1,1 @@
+import{a}from"./chunk-5FZOHRS3.js";import"./chunk-MO4VOJ6B.js";import"./chunk-QR7RS26O.js";import"./chunk-HCO6HHKT.js";import"./chunk-RGXTWLH4.js";import"./chunk-VIKG75FC.js";import"./chunk-COZJJN5U.js";export{a as IframeFacebookComponent};
